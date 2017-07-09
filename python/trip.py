@@ -1,7 +1,7 @@
 city = raw_input("Where will you be going?")
 days = raw_input("How many days will you be staying?")
 spending_money = raw_input("How much extra spenfing money will you bring?")
-"""def hotel_cost(days):
+def hotel_cost(days):
 	return days * 140				
 	if len(nights) < 1:
 		print "Invalid"
@@ -32,7 +32,7 @@ def spending_money()
 		return spending_money
 def trip_cost(city, days, spending_money):
 	return rental_car_cost(days) + hotel_cost(nights) + plane_ride_cost(city) + spending_ money
-"""
+
 
 
 
