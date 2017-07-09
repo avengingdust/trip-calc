@@ -29,7 +29,7 @@ def spending_money()
 	spending_money = raw_input("How much cash will you bring?")
 	if len(spending_money) <1:
 		print "Invalid"
-	else 
+	else: 
 		return spending_money:
 def trip_cost(city, days, spending_money):
 	return rental_car_cost(days) + hotel_cost(nights) + plane_ride_cost(city) + spending_ money
