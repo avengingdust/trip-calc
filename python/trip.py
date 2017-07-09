@@ -42,6 +42,6 @@ def trip_cost(city, days, spending_money):
 
 
 
-def trip_cost(city, days, spending_money):
+"""def trip_cost(city, days, spending_money):
     return rental_car_cost(days) + hotel_cost(days) + plane_ride_cost(city) + spending_money
-print trip_cost("Los Angeles", 5, 600)
+print trip_cost("Los Angeles", 5, 600)"""
