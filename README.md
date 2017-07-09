@@ -1,0 +1,3 @@
+# trip-calc
+
+Learning python
